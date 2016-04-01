@@ -1,0 +1,19 @@
+.nav {
+    height: 10vmax;
+}
+
+.tab-content {
+    height: 90vmax;
+}
+
+article {
+    height: 100%;
+    text-align: center;
+}
+
+article h3 {
+    font-size: 80vmin;
+    position: relative;
+    top: 40%;
+    transform: translateY(-50%);
+}
