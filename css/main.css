@@ -13,7 +13,4 @@ article {
 
 article h3 {
     font-size: 80vmin;
-    position: relative;
-    top: 40%;
-    transform: translateY(-50%);
 }
